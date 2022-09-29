@@ -1,6 +1,6 @@
-# Flutter Live Location Tracker
+# Mobile Application Live Location Tracker
 
-Source Code for flutter Live Location Tracker using goooglmap and location package.<br>
+Source Code for Mobile App Live Location Tracker using goooglmap, location package and geocoding.<br>
 
 ## App Features
 - Add current location to firebase and locate it in google map.<br>
@@ -17,6 +17,3 @@ For Step By Step Guide Follow Video Tutorials:
 - [Google Map Package](https://bit.ly/2Vu1SYC)
 - [Permission Handler Package](https://bit.ly/2X1WAnE)
 <br><br>
-
-Feel Free to copy the code and use it.<br><br>
-Don't forget to star the repo and like the video :)
