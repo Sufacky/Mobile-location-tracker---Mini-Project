@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "574042151040",
+    "firebase_url": "https://yearthreeproject-default-rtdb.firebaseio.com",
+    "project_id": "yearthreeproject",
+    "storage_bucket": "yearthreeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574042151040:android:ffb676503a439bb7bd6e65",
+        "android_client_info": {
+          "package_name": "com.example.google_map_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574042151040-u9ikcathblod5c1us337d34ipm4kaet7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRY6z0h1SC0R-_KOS3Z4GN-PoMMDTNjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574042151040-u9ikcathblod5c1us337d34ipm4kaet7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574042151040-f98899ue4nt4lp68fv65c9au4m459hm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapLive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574042151040:android:3e7ad34f264f62febd6e65",
+        "android_client_info": {
+          "package_name": "com.example.google_map_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574042151040-u9ikcathblod5c1us337d34ipm4kaet7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRY6z0h1SC0R-_KOS3Z4GN-PoMMDTNjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574042151040-u9ikcathblod5c1us337d34ipm4kaet7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574042151040-f98899ue4nt4lp68fv65c9au4m459hm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapLive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
